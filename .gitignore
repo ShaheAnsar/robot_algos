@@ -1,0 +1,13 @@
+*.pdf
+*.tex
+Visualizations/*
+\~*
+\#*
+*\~
+*\#
+*.png
+*.mp4
+*.gif
+*.json
+*.txt
+README
